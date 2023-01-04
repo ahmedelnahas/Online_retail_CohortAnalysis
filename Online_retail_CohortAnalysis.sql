@@ -153,6 +153,7 @@ select Cohort_Date ,
 	1.0 * [13]/[1] * 100 as [13]
 from #cohort_pivot
 order by Cohort_Date
+
 --SELECT distinct 
 --cohort_Index
 --from #Cohort_retention
